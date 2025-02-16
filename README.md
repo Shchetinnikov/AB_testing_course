@@ -11,6 +11,9 @@ Course of A/B testing. ITMO University. AI Talent Hub. MTS.
 3.
     - Lection: The design of the AB test in real conditions
     - Seminar: Frameworks for the design of AB tests
+4.
+    - Lection: Acceleration of A/B-tests
+    - Seminar: Acceleration of A/B-tests
 
 ## Homeworks
 1. A/B-test design
