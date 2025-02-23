@@ -14,7 +14,11 @@ Course of A/B testing. ITMO University. AI Talent Hub. MTS.
 4.
     - Lection: Acceleration of A/B-tests
     - Seminar: Acceleration of A/B-tests
+5.
+    - Lection: Sequential testing 
+    - Seminar: Sequential testing
+
 
 ## Homeworks
 1. A/B-test design
-2.
+2. Acceleration of A/B-tests
